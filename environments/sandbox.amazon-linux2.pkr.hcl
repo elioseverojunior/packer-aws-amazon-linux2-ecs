@@ -1,0 +1,9 @@
+associate_public_ip_address = false
+aws_region                  = "us-east-1"
+environment                 = "sandbox"
+security_group_id           = "sg-04442564d9c9c0010"
+ssh_keypair_name            = "packer"
+ssh_private_key_file        = "~/.ssh/packer.pem"
+ssh_timeout                 = "2m"
+subnet_id                   = "subnet-083b257b1aac949fc"
+vpc_id                      = "vpc-0aa97d8dc6991a18d"
